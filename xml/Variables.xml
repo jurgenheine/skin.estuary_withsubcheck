@@ -65,6 +65,12 @@
 		<value condition="ListItem.IsFolder + String.IsEmpty(ListItem.Thumb)">DefaultFolderSquare.png</value>
 		<value>$INFO[ListItem.Thumb]</value>
 	</variable>
+	<variable name="MusicInfoThumbVar">
+		<value condition="!String.IsEmpty(Listitem.Art(thumb))">$INFO[Listitem.Art(thumb)]</value>
+		<value condition="String.IsEqual(listitem.dbtype,artist)">DefaultArtist.png</value>
+		<value condition="String.IsEqual(listitem.dbtype,album)">DefaultAlbumCover.png</value>
+		<value>DefaultAudio.png</value>
+	</variable>
 	<variable name="InfoWallThumbVar">
 		<value condition="!String.IsEmpty(Listitem.Art(poster))">$INFO[Listitem.Art(poster)]</value>
 		<value>$INFO[ListItem.Icon]</value>
@@ -165,10 +171,6 @@
 		<value condition="!String.IsEmpty(ListItem.Art(poster))">$INFO[ListItem.Art(poster)]</value>
 		<value condition="!String.IsEmpty(ListItem.Art(season.poster))">$INFO[ListItem.Art(season.poster)]</value>
 		<value condition="!String.IsEmpty(ListItem.Art(tvshow.poster))">$INFO[ListItem.Art(tvshow.poster)]</value>
-	</variable>
-	<variable name="ListPosterVar">
-		<value condition="ListItem.IsParentFolder">DefaultFolderBackPoster.png</value>
-		<value>$INFO[ListItem.Art(poster)]</value>
 	</variable>
 	<variable name="BannerLabel2Var">
 		<value condition="String.IsEqual(Listitem.DBType,tvshow)">$INFO[ListItem.Property(WatchedEpisodes)]$INFO[ListItem.Property(TotalEpisodes), / ,]</value>
@@ -325,6 +327,7 @@
 		<value condition="ListItem.IsRecording">windows/pvr/record.png</value>
 		<value condition="ListItem.IsCollection">overlays/set.png</value>
 		<value condition="ListItem.IsPlaying">overlays/watched/OverlayPlaying-List.png</value>
+		<value condition="ListItem.IsResumable">overlays/watched/resume.png</value>
 		<value condition="Integer.IsGreater(ListItem.Playcount,0)">$INFO[ListItem.Overlay]</value>
 	</variable>
 	<!-- Breadcrumbs -->
@@ -421,12 +424,12 @@
 		<value condition="String.IsEqual(Skin.String(background_overlay),0)">$LOCALIZE[231]</value>
 		<value>$INFO[Skin.String(background_overlay),$LOCALIZE[467] ]</value>
 	</variable>
-	<variable name="skinsubtitlechecker.available">
-		<value condition="System.HasAddon(script.skinsubtitlechecker)">$INFO[window.Property(skinsubtitlechecker.available)]</value>
-		<value></value>
-	</variable>
-	<variable name="skinsubtitlechecker.language.iso_639_2t">
-		<value condition="System.HasAddon(script.skinsubtitlechecker)">$INFO[window.Property(skinsubtitlechecker.language.iso_639_2t)]</value>
-		<value></value>
-	 </variable>
+  <variable name="skinsubtitlechecker.available">
+    <value condition="System.HasAddon(script.skinsubtitlechecker)">$INFO[window.Property(skinsubtitlechecker.available)]</value>
+    <value></value>
+  </variable>
+  <variable name="skinsubtitlechecker.language.iso_639_2t">
+    <value condition="System.HasAddon(script.skinsubtitlechecker)">$INFO[window.Property(skinsubtitlechecker.language.iso_639_2t)]</value>
+    <value></value>
+  </variable>
 </includes>
