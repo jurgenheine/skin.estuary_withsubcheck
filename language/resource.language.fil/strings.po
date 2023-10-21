@@ -1,233 +1,235 @@
 # Kodi Media Center language file
 # Addon Name: Estuary
 # Addon id: skin.estuary
-# Addon Provider: Team Kodi
+# Addon Provider: phil65, Ichabod Fletchman
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-02-26 16:13+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
-"Language-Team: Norwegian Bokmål <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-estuary/nb_no/>\n"
-"Language: nb_no\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fil\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11\n"
+"Plural-Forms: nplurals=2; plural=n != 1 && n != 2 && n != 3 && (n % 10 == 4 || n % 10 == 6 || n % 10 == 9);\n"
 
 msgctxt "Addon Summary"
 msgid "Estuary skin by phil65. (Kodi's default skin)"
-msgstr "Esturay-drakt av phil65 og Piers. (Kodis forvalgte drakt)"
+msgstr ""
 
 msgctxt "Addon Description"
 msgid "Estuary is the default skin for Kodi 17.0 and above. It attempts to be easy for first time Kodi users to understand and use."
-msgstr "Estuary er forvalgt drakt til Kodi 17.0 og nyere. Det tar mål av seg å være en enkel drakt for førstegangsbrukere av Kodi, slik at det er til å forstå og kan brukes."
+msgstr ""
 
 msgctxt "Addon Disclaimer"
 msgid "Estuary is the default skin for Kodi, removing it may cause issues"
-msgstr "Estuary er forvalgt drakt for Kodi, dersom du fjerner det kan det forårsake problemer."
+msgstr ""
 
 msgctxt "#31000"
 msgid "Now playing"
-msgstr "Spilles nå"
+msgstr ""
 
 msgctxt "#31001"
 msgid "Search..."
-msgstr "Søk…"
+msgstr ""
 
 msgctxt "#31002"
 msgid "Show media fanart as background"
-msgstr "Vis fan media som bakgrunn"
+msgstr ""
 
 msgctxt "#31003"
 msgid "Cinema mode"
-msgstr "Kinomodus"
+msgstr ""
 
 msgctxt "#31004"
 msgid "Change mode"
-msgstr "Endre modus"
+msgstr ""
 
 msgctxt "#31005"
 msgid "Watch as 2D"
-msgstr "Se som 2D"
+msgstr ""
 
 msgctxt "#31006"
 msgid "Random movies"
-msgstr "Tilfeldige filmer"
+msgstr ""
 
 msgctxt "#31007"
 msgid "Unwatched movies"
-msgstr "Usette filmer"
+msgstr ""
 
 msgctxt "#31008"
 msgid "Enable category widgets"
-msgstr "Skru på kategori-miniprogrammer"
+msgstr ""
 
 msgctxt "#31009"
 msgid "Download icons"
-msgstr "Nedlastingsikon"
+msgstr ""
 
 msgctxt "#31010"
 msgid "In progress movies"
-msgstr "Påbegynte filmer"
+msgstr ""
 
 msgctxt "#31011"
 msgid "Most played albums"
-msgstr "Mest spilte albumer"
+msgstr ""
 
 msgctxt "#31012"
 msgid "Random albums"
-msgstr "Tilfeldige album"
+msgstr ""
 
 msgctxt "#31013"
 msgid "Random artists"
-msgstr "Tilfeldige artister"
+msgstr ""
 
 msgctxt "#31014"
 msgid "Unplayed albums"
-msgstr "Uspilte album"
+msgstr ""
 
 #. home screen recordings widget: recent tv / radio recordings
 msgctxt "#31015"
 msgid "Recent recordings"
-msgstr "Nylige opptak"
+msgstr ""
 
 #. home screen channel widget: recently played tv channels. (please note that in some non-english languages #31018 and #31016 might not be equal)
 msgctxt "#31016"
 msgid "Recently played channels"
-msgstr "Nylige avspilte kanaler"
+msgstr ""
 
 msgctxt "#31017"
 msgid "Rated"
-msgstr "Vurdert"
+msgstr ""
 
 #. home screen channel widget: recently played radio channels. (please note that in some non-english languages #31018 and #31016 might not be equal)
 msgctxt "#31018"
 msgid "Recently played channels"
-msgstr "Nylige avspilte kanaler"
+msgstr ""
 
 msgctxt "#31019"
 msgid "Forecast"
-msgstr "Værvarsel"
+msgstr ""
 
 msgctxt "#31020"
 msgid "Actions"
-msgstr "Handlinger"
+msgstr ""
 
 msgctxt "#31021"
 msgid "Misc options"
-msgstr "Øvrige alternativer"
+msgstr ""
 
 msgctxt "#31022"
 msgid "Sort by"
-msgstr "Sorter etter"
+msgstr ""
 
 msgctxt "#31023"
 msgid "Viewtype"
-msgstr "Visningstype"
+msgstr ""
 
 msgctxt "#31024"
 msgid "Choose rating to display for media items"
-msgstr "Vis poenggivning å vise for mediaelementer"
+msgstr ""
 
 msgctxt "#31025"
 msgid "No favourites found. You can add any item from media views to this list by using the context menu."
-msgstr "Ingen favoritter funnet. Du kan legge til artikler fra medialisten til denne listen ved å bruke hurtigmenyen."
+msgstr ""
 
 msgctxt "#31026"
 msgid "Timeshift"
-msgstr "Tdsforskyvning"
+msgstr ""
 
 msgctxt "#31027"
 msgid "Next aired"
-msgstr "Oppkommende visning"
+msgstr ""
 
 msgctxt "#31028"
 msgid "Show fanart"
-msgstr "Vis brukerkunstbidrag"
+msgstr ""
 
 msgctxt "#31029"
 msgid "Last logged in"
-msgstr "Sist innlogget"
+msgstr ""
 
 #. Label to show the system memory usage
 msgctxt "#31030"
 msgid "System memory usage"
-msgstr "Systemminnebruk"
+msgstr ""
 
 msgctxt "#31031"
 msgid "Version info"
-msgstr "Versjonsinformasjon"
+msgstr ""
 
 msgctxt "#31032"
 msgid "Order"
-msgstr "Sorter"
+msgstr ""
 
 msgctxt "#31033"
 msgid "Your rating"
-msgstr "Din rangering"
+msgstr ""
 
 msgctxt "#31034"
 msgid "Extended info"
-msgstr "Utvidet informasjon"
+msgstr ""
 
 msgctxt "#31035"
 msgid "Pages"
-msgstr "Sider"
+msgstr ""
 
 msgctxt "#31036"
 msgid "items"
-msgstr "Elementer"
+msgstr ""
 
 msgctxt "#31037"
 msgid "Selected track"
-msgstr "Valgt spor"
+msgstr ""
 
 msgctxt "#31038"
 msgid "Rewind"
-msgstr "Spol bakover"
+msgstr ""
 
 msgctxt "#31039"
 msgid "Fast forward"
-msgstr "Spol framover"
+msgstr ""
 
+# empty string with id 31040
 msgctxt "#31041"
 msgid "Camera manufacturer"
-msgstr "Kameramerke"
+msgstr ""
 
 msgctxt "#31042"
 msgid "Playlist options"
-msgstr "Alternativer for spilleliste"
+msgstr ""
 
 msgctxt "#31043"
 msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
-msgstr "Sett type og legg til regel for å lage en smart spilleliste. Disse spillelistene er dynamisk og inkluderer alle mediafiler fra din database som passer dine regler."
+msgstr ""
 
 msgctxt "#31044"
 msgid "Add group"
-msgstr "Legg til gruppe"
+msgstr ""
 
 msgctxt "#31045"
 msgid "Rename group"
-msgstr "Gi nytt navn til gruppe"
+msgstr ""
 
 msgctxt "#31046"
 msgid "Delete group"
-msgstr "Slett gruppe"
+msgstr ""
 
+# empty string with id 31047
 msgctxt "#31048"
 msgid "Available"
-msgstr "Tilgjengelig"
+msgstr ""
 
+# empty strings from id 31049 to 31051
 msgctxt "#31052"
 msgid "filtered"
-msgstr "filtrert"
+msgstr ""
 
 msgctxt "#31053"
 msgid "Arial based"
-msgstr "Arial-basert"
+msgstr ""
 
 msgctxt "#31054"
 msgid "Press [B]Left[/B] to step back, or [B]Right[/B] to step forward"
@@ -239,15 +241,15 @@ msgstr ""
 
 msgctxt "#31056"
 msgid "Go to playlist"
-msgstr "Gå til spilleliste"
+msgstr ""
 
 msgctxt "#31057"
 msgid "Show login screen on startup"
-msgstr "Vis pålogginsskjerm ved oppstart"
+msgstr ""
 
 msgctxt "#31058"
 msgid "Automatic Login on startup"
-msgstr "Automatisk pålogging ved oppstart"
+msgstr ""
 
 msgctxt "#31059"
 msgid "Select + X"
@@ -259,164 +261,172 @@ msgstr ""
 
 msgctxt "#31061"
 msgid "Main menu items"
-msgstr "Hovedmenyelementer"
+msgstr ""
 
 msgctxt "#31062"
 msgid "Choose weather fanart pack"
-msgstr "Velg brukerkunstbidragspakke for vær"
+msgstr ""
 
 msgctxt "#31063"
 msgid "Sections"
-msgstr "Seksjoner"
+msgstr ""
 
+# empty string with id 31064
 msgctxt "#31065"
 msgid "Video playlist"
-msgstr "Video spilleliste"
+msgstr ""
 
 msgctxt "#31066"
 msgid "Music playlist"
-msgstr "Musikkspilleliste"
+msgstr ""
 
 msgctxt "#31067"
 msgid "Event log"
-msgstr "Hendelseslogg"
+msgstr ""
 
 msgctxt "#31068"
 msgid "Choose presets"
-msgstr "Velg forvalg"
+msgstr ""
 
 msgctxt "#31069"
 msgid "Last Updated"
-msgstr "Sist oppdatert"
+msgstr ""
 
+# empty string with id 31070
 msgctxt "#31071"
 msgid "by"
-msgstr "av"
+msgstr ""
 
 msgctxt "#31072"
 msgid "Power Options"
-msgstr "Strømalternativer"
+msgstr ""
 
 msgctxt "#31073"
 msgid "Total length"
-msgstr "Total lengde"
+msgstr ""
 
 msgctxt "#31074"
 msgid "Total duration"
-msgstr "Total varighet"
+msgstr ""
 
 msgctxt "#31075"
 msgid "Movie sets"
-msgstr "Filmsamlinger"
+msgstr ""
 
+# empty strings from id 31076 to 31078
 msgctxt "#31079"
 msgid "Cast not available"
-msgstr "Rollerbesetning ikke tilgjengelig"
+msgstr ""
 
 msgctxt "#31080"
 msgid "Ends at"
-msgstr "Slutter"
+msgstr ""
 
+# empty string with id 31081
 msgctxt "#31082"
 msgid "Lyrics add-on"
-msgstr "Sangtekst-utvidelse"
+msgstr ""
 
 msgctxt "#31083"
 msgid "Lyrics add-on settings"
-msgstr "Innstillinger for sangteksttillegg"
+msgstr ""
 
 msgctxt "#31084"
 msgid "Visualisation settings"
-msgstr "Visualiseringsinnstillinger"
+msgstr ""
 
+# empty strings from id 31085 to 31088
 msgctxt "#31089"
 msgid "Available groups"
-msgstr "Tilgjengelige grupper"
+msgstr ""
 
+# empty strings from id 31090 to 31091
 msgctxt "#31092"
 msgid "Video menu"
-msgstr "Videomeny"
+msgstr ""
 
 msgctxt "#31093"
 msgid "Show weather info in top bar"
-msgstr "Vis værinformasjon i toppmenyen"
+msgstr ""
 
+# empty string with id 31094
 msgctxt "#31095"
 msgid "Use slide animations"
-msgstr "Bruk animasjoner"
+msgstr ""
 
 msgctxt "#31096"
 msgid "Local subtitle available"
-msgstr "Lokal tekst tilgjengelig"
+msgstr ""
 
 msgctxt "#31097"
 msgid "Channel options"
-msgstr "Kanalalternativer"
+msgstr ""
 
 msgctxt "#31098"
 msgid "Select your Kodi user profile[CR]to login and continue"
-msgstr "Velg din Kodi brukerprofil[CR]for å logge inn og fortsette"
+msgstr ""
 
 #. viewtype name
 msgctxt "#31099"
 msgid "IconWall"
-msgstr "IkonVegg"
+msgstr ""
 
 #. viewtype name
 msgctxt "#31100"
 msgid "Shift"
-msgstr "Shift"
+msgstr ""
 
 #. viewtype name
 msgctxt "#31101"
 msgid "InfoWall"
-msgstr "Infovegg"
+msgstr ""
 
 #. viewtype name
 msgctxt "#31102"
 msgid "Wall"
-msgstr "Vegg"
+msgstr ""
 
 msgctxt "#31103"
 msgid "Enter text here..."
-msgstr "Skriv tekst her…"
+msgstr ""
 
 msgctxt "#31104"
 msgid "Your library is currently empty. In order to populate it with your personal media, enter \"Files\" section, add a media source and configure it. After the source has been added and indexed you will be able to browse your library."
-msgstr "Ditt bibliotek er for tiden tomt. For å kunne legge til dine personlige mediafiler gå til \"Filer\", legg til mediakilde og sett opp denne. Etter at kilden er lagt til og indeksert kan du se gjennom ditt bibliotek."
+msgstr ""
 
 msgctxt "#31105"
 msgid "Add video sources and set the appropriate content type in order to populate your video libraries."
-msgstr "Legg til videokilde og sett en passende innholdstype for å populere ditt videobibliotek."
+msgstr ""
 
 msgctxt "#31106"
 msgid "Teletext"
-msgstr "Tekst-TV"
+msgstr ""
 
 #. viewtype name
 msgctxt "#31107"
 msgid "WideList"
-msgstr "Bred liste"
+msgstr ""
 
+# empty strings from id 31108 to 31109
 msgctxt "#31110"
 msgid "Enter files section"
-msgstr "Gå til filområde"
+msgstr ""
 
 msgctxt "#31111"
 msgid "View your personal pictures or download one of the many image add-ons from the official repository."
-msgstr "Se dine personlige bilder eller last ned en av de mange bildetilleggene fra den offisielle pakkebrønnen."
+msgstr ""
 
 msgctxt "#31112"
 msgid "Toggle audio stream"
-msgstr "Endre lydstrøm"
+msgstr ""
 
 msgctxt "#31113"
 msgid "Search local library"
-msgstr "Søk i lokalt bibliotek"
+msgstr ""
 
 msgctxt "#31114"
 msgid "Search YouTube"
-msgstr "Søk på YouTube"
+msgstr ""
 
 msgctxt "#31115"
 msgid "Toggle subtitle"
@@ -424,75 +434,76 @@ msgstr ""
 
 msgctxt "#31116"
 msgid "Remove this main menu item"
-msgstr "Fjern dette fra hovedmenyen"
+msgstr ""
 
 msgctxt "#31117"
 msgid "Edit nodes"
-msgstr "Rediger noder"
+msgstr ""
 
 msgctxt "#31118"
 msgid "Enter add-on browser"
-msgstr "Gå til utvidelser"
+msgstr ""
 
 msgctxt "#31119"
 msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
-msgstr "Du har ingen tillegg installert enda. Besøk din tilleggsutforsker for å se gjennom vår samling og forbedre din Kodi-opplevelse."
+msgstr ""
 
 msgctxt "#31120"
 msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
-msgstr "Du har ikke satt opp en værtilbyder. For å kunne se vær informasjon, velg en værtilbyder og sett din lokasjon."
+msgstr ""
 
 msgctxt "#31121"
 msgid "Set weather provider"
-msgstr "Sett værtilbyder"
+msgstr ""
 
 msgctxt "#31122"
 msgid "Unwatched TV Shows"
-msgstr "Usette TV-serier"
+msgstr ""
 
 msgctxt "#31123"
 msgid "Same director"
-msgstr "Samme regissør"
+msgstr ""
 
+# empty string with id 31124
 msgctxt "#31125"
 msgid "Press up for actor info"
-msgstr "Trykk opp for skuespillerinformasjon"
+msgstr ""
 
 msgctxt "#31126"
 msgid "Press OK to read plot"
-msgstr "Trykk OK for å lese handlingen"
+msgstr ""
 
 msgctxt "#31127"
 msgid "Show icons"
-msgstr "Vis ikoner"
+msgstr ""
 
 msgctxt "#31128"
 msgid "Contributors"
-msgstr "Bidragsytere"
+msgstr ""
 
 msgctxt "#31129"
 msgid "General settings applying to all areas of the skin."
-msgstr "Generelle innstillinger gjelder for alle deler av drakten"
+msgstr ""
 
 msgctxt "#31130"
 msgid "Main menu-related settings: Configure the home screen to your likings."
-msgstr "Hovedmenyrelaterte innstillinger. Tilpass hjemmeskjermen slik du ønsker."
+msgstr ""
 
 msgctxt "#31131"
 msgid "Choose skin fanart pack"
-msgstr "Velg brukerkunstbidragspakke for drakt"
+msgstr ""
 
 msgctxt "#31132"
 msgid "Select Program"
-msgstr "Velg Program"
+msgstr ""
 
 msgctxt "#31133"
 msgid "Select Resolution"
-msgstr "Velg oppløsning"
+msgstr ""
 
 msgctxt "#31134"
 msgid "Remaining"
-msgstr "Gjenstår"
+msgstr ""
 
 msgctxt "#31135"
 msgid "Binary"
@@ -500,51 +511,51 @@ msgstr ""
 
 msgctxt "#31136"
 msgid "Click here to see latest changes..."
-msgstr "Klikk her for å se siste endringer…"
+msgstr ""
 
 #. Label to show PVR info page
 msgctxt "#31137"
 msgid "PVR"
-msgstr "PVR"
+msgstr ""
 
 #. Label to show player info page
 msgctxt "#31138"
 msgid "Player"
-msgstr "Avspiller"
+msgstr ""
 
 #. Label to show video decoder name
 msgctxt "#31139"
 msgid "Video decoder"
-msgstr "Videodekoder"
+msgstr ""
 
 #. Label to show the video pixel format
 msgctxt "#31140"
 msgid "Pixel format"
-msgstr "Pikselformat"
+msgstr ""
 
 msgctxt "#31141"
 msgid "Changes for version"
-msgstr "Endringer for denne utgaven"
+msgstr ""
 
 msgctxt "#31142"
 msgid "Play speed"
-msgstr "Avspillingshastighet"
+msgstr ""
 
 msgctxt "#31143"
 msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
-msgstr "Du har ikke satt opp PVR enda. For å bruke PVR, velg et PVR-klient -tillegg og sett det opp. Besøk http://kodi.wiki/view/PVR for å finne ut mer."
+msgstr ""
 
 msgctxt "#31144"
 msgid "Enter add-on browser"
-msgstr "Gå til utvidelser"
+msgstr ""
 
 msgctxt "#31145"
 msgid "Search add-ons"
-msgstr "Søk tillegg"
+msgstr ""
 
 msgctxt "#31146"
 msgid "In cinemas"
-msgstr "På kino"
+msgstr ""
 
 msgctxt "#31147"
 msgid "In cinemas soon"
@@ -552,11 +563,11 @@ msgstr ""
 
 msgctxt "#31148"
 msgid "Categories"
-msgstr "Kategorier"
+msgstr ""
 
 msgctxt "#31149"
 msgid "Select genre fanart pack"
-msgstr "Velg brukerkunstbidragspakke for sjanger"
+msgstr ""
 
 msgctxt "#31150"
 msgid "Origin"
@@ -564,75 +575,75 @@ msgstr ""
 
 msgctxt "#31151"
 msgid "Unwatched music videos"
-msgstr "Usette musikkvideoer"
+msgstr ""
 
 msgctxt "#31152"
 msgid "Random music videos"
-msgstr "Tilfeldige musikkvideoer"
+msgstr ""
 
 msgctxt "#31153"
 msgid "You do not have any add-ons of this type installed. Enter the add-on browser to download add-ons created by our community."
-msgstr "Du har ingen tillegg av denne typen installert. Gå til tilleggsmodulen for å laste ned tillegg laget av vår gemenskap."
+msgstr ""
 
 msgctxt "#31154"
 msgid "Press OK to switch between locations"
-msgstr "Trykk OK for å bytte mellom lokasjoner"
+msgstr ""
 
 msgctxt "#31155"
 msgid "No bookmarks created yet."
-msgstr "Ingen bokmerker opprettet enda."
+msgstr ""
 
 msgctxt "#31156"
 msgid "Choose background pattern"
-msgstr "Velg bakgrunnsmønster."
+msgstr ""
 
 msgctxt "#31157"
 msgid "Edit categories"
-msgstr "Rediger kategorier"
+msgstr ""
 
 msgctxt "#31158"
 msgid "Touch mode"
-msgstr "Berøringsmodus"
+msgstr ""
 
 msgctxt "#31159"
 msgid "Artwork"
-msgstr "Kunstverk"
+msgstr ""
 
 msgctxt "#31160"
 msgid "Show media flags"
-msgstr "Vis mediaflagg"
+msgstr ""
 
 msgctxt "#31161"
 msgid "Numeric pad"
-msgstr "Talltastatur"
+msgstr ""
 
 msgctxt "#31162"
 msgid "Play your personal games or download one of the many game add-ons from the official repository."
-msgstr "Spill personlige spill eller last ned en av de mange spilltilleggene fra den offisielle pakkebrønnen."
+msgstr ""
 
 msgctxt "#31163"
 msgid "Show Fanart background"
-msgstr "Vis brukerkunstbidrag-bakgrunn"
+msgstr ""
 
 #. Choose profile identifier
 msgctxt "#31164"
 msgid "Choose kind of profile identification"
-msgstr "Velg hvilken type profil identifikasjon"
+msgstr ""
 
 #. Label for the kind of profile identification
 msgctxt "#31165"
 msgid "Profile name"
-msgstr "Profilnavn"
+msgstr ""
 
 #. Label for the kind of profile identification
 msgctxt "#31166"
 msgid "Profile avatar"
-msgstr "Profil avatar"
+msgstr ""
 
 #. Label of a setting
 msgctxt "#31167"
 msgid "Animate background"
-msgstr "Animér bakgrunnen"
+msgstr ""
 
 #. Label of a setting
 msgctxt "#31168"
@@ -683,17 +694,17 @@ msgstr ""
 #. Label to show the video codec name
 msgctxt "#31600"
 msgid "Video codec"
-msgstr "Videokodek"
+msgstr ""
 
 #. Label to show the video resolution
 msgctxt "#31601"
 msgid "Video resolution"
-msgstr "Videooppløsning"
+msgstr ""
 
 #. Label to show the video aspect
 msgctxt "#31602"
 msgid "Video aspect"
-msgstr "Høyde/bredde-forhold"
+msgstr ""
 
 #. Label to show the video bitrate
 msgctxt "#31603"
@@ -703,12 +714,12 @@ msgstr ""
 #. Label to show the audio codec name
 msgctxt "#31604"
 msgid "Audio codec"
-msgstr "Lydkodek"
+msgstr ""
 
 #. Label to show the number of audio channels
 msgctxt "#31605"
 msgid "Audio channels"
-msgstr "Lydkanaler"
+msgstr ""
 
 #. Label to show the audio bitrate
 msgctxt "#31606"
@@ -718,7 +729,7 @@ msgstr ""
 #. Label to show the screen resolution
 msgctxt "#31607"
 msgid "Screen resolution"
-msgstr "Skjermoppløsning"
+msgstr ""
 
 #. Label to show the system rendering speed
 msgctxt "#31608"
@@ -728,22 +739,14 @@ msgstr ""
 #. Label to show the system CPU usage
 msgctxt "#31609"
 msgid "System CPU usage"
-msgstr "Prosessorbruk"
+msgstr ""
 
 #. Label to show the media (metadata) info page
 msgctxt "#31610"
 msgid "Media"
-msgstr "Medie"
+msgstr ""
 
 #. Label to show the system info page
 msgctxt "#31611"
 msgid "System"
-msgstr "System"
-
-#~ msgctxt "#31137"
-#~ msgid "PVR info"
-#~ msgstr "PVR-informasjon"
-
-#~ msgctxt "#31138"
-#~ msgid "Player process info"
-#~ msgstr "Prosessinformasjon for avspiller"
+msgstr ""
